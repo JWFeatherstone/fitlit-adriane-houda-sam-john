@@ -51,6 +51,11 @@ The app presents users with a dashboard of their latest daily and all-time fitne
 - Using technology from third party libraries from both chart.js & date.js to enhance the UI experience
 - Utilizing gitHub project board to divide tasks, update design, and submit code review and receive feedback from teammates 
 - Making application 100% accessible via Lighthouse audit
+- Using test driven development 
+- Collaboration and given equal opportunity
+- Resolving merge conflicts 
 
 ### Challenges:
-- Uniformly deciding on a layout and design. We remained open to everyones ideas via frequent communication, extensive planning and research and continued to update our wireframing and project board as the application progressed for problems that arised. 
+- Uniformly deciding on a layout and design. We remained open to everyones ideas via frequent communication, extensive planning and research and continued to update our wireframing and project board as the application progressed for problems that arised.
+- Understanding and implementing fetch calls
+- Learning both chart.js and date.js third party libraries and successfully implementing methods to display user's data
