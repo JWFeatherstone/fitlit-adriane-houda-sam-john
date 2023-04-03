@@ -4,6 +4,17 @@
 A web application designed to allow users to monitor their latest and all-time activity, hydration, and sleep data and to compare their health metrics and goals against the wider user base of the platform. 
 
 ## Technologies Used
+- Charts.js & Day.js 3rd party libraries
+- Fetch API
+- Lighthouse and WAVE accessibility tools
+- Webpack module bundler
+- Git/GitHub
+- GitHub project board
+- Figma for wireframing
+- JavaScript
+- CSS & HTML
+- Mocha JavaScript testing framework
+- Chai assertion library
 
 ## Installation Guide
 1. Fork the repository
@@ -34,3 +45,12 @@ The app presents users with a dashboard of their latest daily and all-time fitne
 - Adriane Sutherland - [GitHub](https://github.com/asutherland91) | [LinkedIn](https://www.linkedin.com/in/adrianesutherland/)
 
 ## Wins and Challanges
+
+### Wins:
+- Successfully implemented use of fetch API to fetch data asynchronously.
+- Using technology from third party libraries from both chart.js & date.js to enhance the UI experience
+- Utilizing gitHub project board to divide tasks, update design, and submit code review and receive feedback from teammates 
+- Making application 100% accessible via Lighthouse audit
+
+### Challenges:
+- Uniformly deciding on a layout and design. We remained open to everyones ideas via frequent communication, extensive planning and research and continued to update our wireframing and project board as the application progressed for problems that arised. 
