@@ -47,15 +47,15 @@ The app presents users with a dashboard of their latest daily and all-time fitne
 ## Wins and Challanges
 
 ### Wins:
-- Successfully implemented use of fetch API to fetch data asynchronously.
-- Using technology from third party libraries from both chart.js & date.js to enhance the UI experience
-- Utilizing gitHub project board to divide tasks, update design, and submit code review and receive feedback from teammates 
-- Making application 100% accessible via Lighthouse audit
-- Using test driven development 
-- Collaboration and given equal opportunity
-- Resolving merge conflicts 
+- Successfully implemented the fetch API to fetch data asynchronously.
+- Utilized third-party libraries, such as chart.js and date.js, to enhance the user interface.
+- Utilized GitHub project boards to organize tasks, update designs, and receive feedback from team members.
+- Achieved 100% accessibility for the application through a Lighthouse audit.
+- Utilized test-driven development to ensure high code quality.
+- Collaborated effectively with the team.
+- Resolved merge conflicts efficiently.
 
 ### Challenges:
-- Uniformly deciding on a layout and design. We remained open to everyones ideas via frequent communication, extensive planning and research and continued to update our wireframing and project board as the application progressed for problems that arised.
-- Understanding and implementing fetch calls
-- Learning both chart.js and date.js third party libraries and successfully implementing methods to display user's data
+- Struggled to uniformly decide on a layout and design, but overcame this challenge through frequent communication, extensive planning and research, and ongoing updates to wireframes and project boards.
+- Had difficulty understanding and implementing fetch calls.
+- Faced a learning curve with both chart.js and date.js third-party libraries, but successfully implemented methods to display user data.
